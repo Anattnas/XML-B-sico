@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+    <cliente>
+        <nombre>Juan Pérez</nombre>
+        <direccion>Calle Falsa 123, Ciudad</direccion>
+        <telefono>555-1234</telefono>
+    </cliente>
+    <detalles>
+        <numero_factura>00123</numero_factura>
+        <fecha>2024-10-15</fecha>
+    </detalles>
+    <articulos>
+        <articulo>
+            <descripcion>Ordenador portátil</descripcion>
+            <cantidad>1</cantidad>
+            <precio_unitario>800.00</precio_unitario>
+            <total>800.00</total>
+        </articulo>
+        <articulo>
+            <descripcion>Ratón inalámbrico</descripcion>
+            <cantidad>2</cantidad>
+            <precio_unitario>25.00</precio_unitario>
+            <total>50.00</total>
+        </articulo>
+    </articulos>
+    <total>850.00</total>
+</factura>

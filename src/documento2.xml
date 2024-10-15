@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<libros>
+    <libro id="quijote">
+        <titulo>El Quijote</titulo>
+        <autor nombre="cervantes">
+        <descripcion>Es el mejor libro de
+            cervantes.</descripcion>
+    </libro>
+</libros>
+
+        <!--
+La etiqueta <autor> tiene el atributo nombre duplicado.
+En Es el mejor libro..., el carácter < debe estar codificado como &lt;.
+El cierre de </libro] tiene un ] extra, y la etiqueta <Libros> debe estar en minúsculas.
+
+                -->

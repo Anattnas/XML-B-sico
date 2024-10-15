@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato>
+        <nombre>Huevos Revueltos</nombre>
+        <descripcion>Huevos batidos y cocidos con mantequilla.</descripcion>
+        <precio>30.00</precio>
+    </plato>
+    <plato>
+        <nombre>Jugo de Naranja</nombre>
+        <descripcion>Jugo fresco de naranjas recién exprimidas.</descripcion>
+        <precio>20.00</precio>
+    </plato>
+    <plato>
+        <nombre>Café</nombre>
+        <descripcion>Café negro fuerte.</descripcion>
+        <precio>15.00</precio>
+    </plato>
+</menu>

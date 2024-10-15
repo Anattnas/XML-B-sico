@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato>
+        <nombre>Huevos Rancheros</nombre>
+        <descripcion>Huevos servidos con salsa de tomate, frijoles, y tortillas de maíz.</descripcion>
+        <precio>50.00</precio>
+    </plato>
+    <plato>
+        <nombre>Panqueques</nombre>
+        <descripcion>Panqueques esponjosos servidos con jarabe de arce y mantequilla.</descripcion>
+        <precio>40.00</precio>
+    </plato>
+    <plato>
+        <nombre>Avena con Frutas</nombre>
+        <descripcion>Avena caliente acompañada de fresas, plátano y miel.</descripcion>
+        <precio>35.00</precio>
+    </plato>
+</menu>
